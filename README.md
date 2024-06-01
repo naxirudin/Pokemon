@@ -72,6 +72,6 @@ This project uses Jest for testing. You can run the tests with the following com
 npm test
 
 
-
+## APP
 
 ![Home Screen](Home.png)
