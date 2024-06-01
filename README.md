@@ -1,5 +1,9 @@
 # Pokemon React Native App
 
+![ALT TEXT](https://raw.githubusercontent.com/naxirudin/Pokemon/main/Home.png?token=GHSAT0AAAAAACTCEZJGIN7XUPE7PZMHJZWQZS3K4FQ)
+![ALT TEXT](https://raw.githubusercontent.com/naxirudin/Pokemon/main/Details.png?token=GHSAT0AAAAAACTCEZJGHECFYC2GI2AMZQRAZS3K65Q)
+![ALT TEXT](https://raw.githubusercontent.com/naxirudin/Pokemon/main/Test%20Coverage.png?token=GHSAT0AAAAAACTCEZJH3K5DLYDHZ7QK4DXWZS3K7SA)
+
 This is a React Native application for displaying Pokemon details using the PokeAPI. The app includes features such as viewing a list of Pokemon and viewing detailed information about each Pokemon.
 
 ## Table of Contents
@@ -7,7 +11,7 @@ This is a React Native application for displaying Pokemon details using the Poke
 - [Installation](#installation)
 - [Running the App](#running-the-app)
 - [Testing](#testing)
-
+- [App Screenshots](#app-screenshots)
 
 ## Installation
 
@@ -70,8 +74,3 @@ This project uses Jest for testing. You can run the tests with the following com
 
 ```sh
 npm test
-
-
-## APP
-
-![Home Screen](Home.png)
