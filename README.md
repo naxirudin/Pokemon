@@ -1,8 +1,8 @@
 # Pokemon React Native App
 
-![ALT TEXT](https://raw.githubusercontent.com/naxirudin/Pokemon/main/Home.png?token=GHSAT0AAAAAACTCEZJGIN7XUPE7PZMHJZWQZS3K4FQ)
-![ALT TEXT](https://raw.githubusercontent.com/naxirudin/Pokemon/main/Details.png?token=GHSAT0AAAAAACTCEZJGHECFYC2GI2AMZQRAZS3K65Q)
-![ALT TEXT](https://raw.githubusercontent.com/naxirudin/Pokemon/main/Test%20Coverage.png?token=GHSAT0AAAAAACTCEZJH3K5DLYDHZ7QK4DXWZS3K7SA)
+![ALT TEXT](https://github.com/naxirudin/Pokemon/blob/main/Home.png)
+![ALT TEXT](https://github.com/naxirudin/Pokemon/blob/main/Details.png)
+![ALT TEXT](https://github.com/naxirudin/Pokemon/blob/main/Test%20Coverage.png)
 
 This is a React Native application for displaying Pokemon details using the PokeAPI. The app includes features such as viewing a list of Pokemon and viewing detailed information about each Pokemon.
 
