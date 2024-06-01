@@ -72,11 +72,4 @@ This project uses Jest for testing. You can run the tests with the following com
 npm test
 
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2024-06-01 at 18 21 19](https://github.com/naxirudin/Pokemon/assets/136608216/6cdcc78a-3c51-405c-bb55-ce08bd9227a1)
 
-
-![Simulator Screenshot - iPhone SE (3rd generation) - 2024-06-01 at 18 21 22](https://github.com/naxirudin/Pokemon/assets/136608216/e1e4bfbb-36e7-4bfe-b8e8-f5b720d1caad)
-
-
-
-<img width="1113" alt="Screenshot 2024-06-01 at 18 23 16" src="https://github.com/naxirudin/Pokemon/assets/136608216/5c89dd74-c823-4cd8-a8ec-0e3a074c3346">
