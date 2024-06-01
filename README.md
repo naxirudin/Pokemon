@@ -70,3 +70,6 @@ This project uses Jest for testing. You can run the tests with the following com
 
 ```sh
 npm test
+
+
+![Home Screen](Home.png)
